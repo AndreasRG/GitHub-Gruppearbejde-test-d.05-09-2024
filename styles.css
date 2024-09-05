@@ -13,3 +13,12 @@
 * {
     font-family: Arial;
 }
+
+.Nikoleta {
+        background-color: #190101;
+    border-radius: 50px;
+        color: white;
+        padding: 20px;
+        box-sizing: border-box;
+        margin-top: 120px;
+}
