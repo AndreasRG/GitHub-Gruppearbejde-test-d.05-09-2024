@@ -1,3 +1,6 @@
+* {
+    font-family: Arial;
+}
 #AndreasRG-Sektion {
     background-color: orange;
 }
@@ -9,16 +12,11 @@
     color: white;
     font: bold 14px/1.5 Arial;
 }
-
-* {
-    font-family: Arial;
-}
-
 .Nikoleta {
-        background-color: #190101;
+    background-color: #190101;
     border-radius: 50px;
-        color: white;
-        padding: 20px;
-        box-sizing: border-box;
-        margin-top: 120px;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 120px;
 }
