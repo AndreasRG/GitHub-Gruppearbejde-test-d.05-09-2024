@@ -9,3 +9,7 @@
     color: white;
     font: bold 14px/1.5 Arial;
 }
+
+* {
+    font-family: Arial;
+}
