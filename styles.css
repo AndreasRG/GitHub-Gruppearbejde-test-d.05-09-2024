@@ -3,6 +3,9 @@
 }
 #AndreasRG-Sektion {
     background-color: orange;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 #AndreasRG-Sektion h2 {
     color: white;
@@ -16,6 +19,9 @@
     width: 69px;
     height: 69px;
     border-radius: 30px;
+}
+#AndreasRG-Sektion img:hover {
+    opacity: 0.8;
 }
 .Nikoleta {
     background-color: #190101;
